@@ -1,0 +1,7 @@
+C:\Users\abdul\Music\Practice Exercises\simplilearn\phase-2\day-8\Assessment8-1\Assessment8-1\bin\Debug\Assessment8-1.exe.config
+C:\Users\abdul\Music\Practice Exercises\simplilearn\phase-2\day-8\Assessment8-1\Assessment8-1\bin\Debug\Assessment8-1.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\phase-2\day-8\Assessment8-1\Assessment8-1\bin\Debug\Assessment8-1.pdb
+C:\Users\abdul\Music\Practice Exercises\simplilearn\phase-2\day-8\Assessment8-1\Assessment8-1\obj\Debug\Assessment8-1.csproj.AssemblyReference.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\phase-2\day-8\Assessment8-1\Assessment8-1\obj\Debug\Assessment8-1.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\phase-2\day-8\Assessment8-1\Assessment8-1\obj\Debug\Assessment8-1.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\phase-2\day-8\Assessment8-1\Assessment8-1\obj\Debug\Assessment8-1.pdb
